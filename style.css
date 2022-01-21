@@ -1,9 +1,10 @@
 .container {
-    border: 2px solid rgb(199, 162, 162);
+
     width: 1200px;
     display: flex;
     flex-direction: column;
     margin-left: 150px;
+    align-items: center;
 
 
 }
@@ -68,7 +69,7 @@
 
 }
 
-#ty {
+#case-decrease {
     margin-left:
         20px;
 }
@@ -102,17 +103,19 @@
 }
 
 .flex-container2>div {
-    margin: 10px 260px;
+    margin: 10px 162px;
+
 }
 
 .sec-4 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
 .flex-container3 {
     display: flex;
     display: block;
-    padding-left: 819px;
+    padding-left: 612px;
 
 
 }
